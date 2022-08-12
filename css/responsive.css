@@ -1,0 +1,99 @@
+/* I pad css Area Start  */
+@media only screen and (max-width: 810px) {
+	.heading-area .links-area {
+		width: 34%;
+		float: right;
+	}
+	
+	.heading-area .links-area .sign-up-area a {
+		padding: 6px 27px;
+	}
+	
+	.heading-area .links-area {
+		width: 34%;
+	}
+	
+	.heading-area .links-area .gmail-imgae-links {
+		margin-top: 6px;
+	}
+	
+	.heading-area .links-area .gmail-imgae-links a {
+		font-size: 12px;
+	}
+	
+	.main-area .google-heding img {
+	width: 224px;
+	margin: 0;
+	margin-top: 144px;
+   }
+   
+   .main-area .search-area {
+	   width: 60%;
+   }
+   
+   .main-area .search-area input[type="submit"] {
+	   font-size: 11px;
+   }
+   
+   .main-area .search-area p {
+	   font-size: 12px;
+   }
+   
+   .main-area .language {
+	   height: 511px;
+   }
+   
+   .footer-area .right-area {
+	   width: 31%;
+   }
+   
+   .footer-area ul li a,
+   .footer-area .bangladesh
+   {
+	   font-size: 12px;
+   }
+}
+/* I pad css Area End  */
+
+
+/* Mobile res-css Area Start */
+@media only screen and (max-width: 360px) {
+	.heading-area .links-area {
+		width: 100%;
+	}
+
+	.heading-area {
+		padding: 14px 16px;
+	}
+
+	.heading-area .links-area .sign-up-area a {
+		float: right;
+	}
+
+	.main-area .search-area input[type="text"],
+	.main-area .search-area {
+		width: 95%;
+	}
+
+	.main-area .google-heding img {
+		width: 175px;
+		margin-top: 100px;
+	}
+
+	.main-area .search-area .serch-list {
+		width: 95%;
+	}
+
+	.main-area .language {
+		height: 150px;
+	}
+
+	.footer-area .right-area {
+		width: 84%;
+	}
+
+	.footer-area ul li {
+		padding: 10px;
+	}
+}
+/* Mobile res-css Area End */
